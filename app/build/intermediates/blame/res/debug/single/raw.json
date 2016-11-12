@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Latest_Android_Workspace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\btn.wav",
+        "source": "D:\\Latest_Android_Workspace\\app\\src\\main\\res\\raw\\btn.wav"
+    },
+    {
+        "merged": "D:\\Latest_Android_Workspace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boardtouch.mp3",
+        "source": "D:\\Latest_Android_Workspace\\app\\src\\main\\res\\raw\\boardtouch.mp3"
+    },
+    {
+        "merged": "D:\\Latest_Android_Workspace\\app\\build\\intermediates\\res\\merged\\debug\\raw\\split.mp3",
+        "source": "D:\\Latest_Android_Workspace\\app\\src\\main\\res\\raw\\split.mp3"
+    }
+]

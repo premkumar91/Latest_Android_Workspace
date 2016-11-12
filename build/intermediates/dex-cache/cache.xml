@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Latest_Android_Workspace\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d47b375564d583ffc4323e1bc2bac1ad1adf673">
+        <dex dex="D:\Latest_Android_Workspace\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_400013e7ccc0bee7746831c989b6b63c38bd067d.jar" />
+    </item>
+    <item
+        jar="D:\Latest_Android_Workspace\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966d29d9155eaab80882823da479c20dd758a3b3">
+        <dex dex="D:\Latest_Android_Workspace\app\build\intermediates\pre-dexed\debug\instant-run_ab5141c027f5129d4f1f09c5a45eb4006280f3d7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidWorking\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Latest_Android_Workspace\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_1a5d167aa5a800176188090ae77e4abb61e9bbc4.jar" />
+    </item>
+
+</items>
